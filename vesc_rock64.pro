@@ -17,3 +17,6 @@ HEADERS += \
         datatypes.h \
         local_datatypes.h \
     server.h
+
+DISTFILES += \
+    Makefile
